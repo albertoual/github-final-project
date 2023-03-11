@@ -2,7 +2,7 @@
 
 __A calculator that calculates simple interest given principal,__ annual rate of interest and time period in years.
 
-#### Input:
+__Input:__
 
 &nbsp;&nbsp;&nbsp;&nbsp; __p,__ principal amount
 
@@ -10,6 +10,6 @@ __A calculator that calculates simple interest given principal,__ annual rate of
 
 &nbsp;&nbsp;&nbsp;&nbsp; __r,__ annual rate of interest
 
-#### Output
+__Output__
 
 &nbsp;&nbsp;&nbsp;&nbsp; __simple interest =__ p\*t\*r
