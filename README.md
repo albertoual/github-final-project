@@ -12,4 +12,4 @@
 
 #### Output
 
-&nbsp;&nbsp;&nbsp;&nbsp; __simple interest =__ p*t*r
+&nbsp;&nbsp;&nbsp;&nbsp; __simple interest =__ p\*t\*r
